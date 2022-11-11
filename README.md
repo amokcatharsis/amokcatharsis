@@ -4,8 +4,11 @@
 ### Hi there 👋
 ### Good day to everyone.
 
+Skills: Web Testing / Quality Assurance / Manual Testing / Software Testing / QA Automation / Python
+
 ### Socials:
 
+[![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/amok_catharsis) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/amokcatharis/)
 <!--
 **amokcatharsis/amokcatharsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
