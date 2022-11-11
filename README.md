@@ -11,7 +11,7 @@ ___
 
 ### Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=71bfa7)](https://t.me/amok_catharsis) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=71bfa7)](https://www.linkedin.com/in/amokcatharis/)
+[![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=71BFA7)](https://t.me/amok_catharsis) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=71BFA7)](https://www.linkedin.com/in/amokcatharis/)
 <!--
 **amokcatharsis/amokcatharsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
