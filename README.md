@@ -1,5 +1,10 @@
-### Hi there 👋
+
 ![image](https://user-images.githubusercontent.com/100477935/201358365-66373e6b-63db-4b65-9ed5-e503124471f3.png)
+
+### Hi there 👋
+### Good day to everyone.
+
+### Socials:
 
 <!--
 **amokcatharsis/amokcatharsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
