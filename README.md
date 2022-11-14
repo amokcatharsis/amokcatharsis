@@ -1,9 +1,8 @@
 
 ![image](https://user-images.githubusercontent.com/100477935/201358365-66373e6b-63db-4b65-9ed5-e503124471f3.png)
 
-Обладаю активной жизненной позицией, взращиваю системное мышление.
-Ответственен, исполнителен, наблюдателен, рационален.
-Всегда открыт новым знаниям, быстро учусь.
+Always a student, never a master. 
+I just do my thing and do it well.
 ___
 
 ### Skills: Web Testing / Quality Assurance / Manual Testing / Software Testing / QA Automation / Python
