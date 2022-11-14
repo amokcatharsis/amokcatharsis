@@ -4,15 +4,19 @@ ___
 
 ![image](https://user-images.githubusercontent.com/100477935/201358365-66373e6b-63db-4b65-9ed5-e503124471f3.png)
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/amokcatharis/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/amok_catharsis">
+    <img src="https://img.shields.io/badge/Telegram-informational?style=flat-square&logo=telegram&logoColor=white" alt="ProfileCard"/>
+ </a>
+</div>
+
 ___
 
 ### Skills: Web Testing / Quality Assurance / Manual Testing / Software Testing / QA Automation / Python
 ___
-
-### Socials:
-
-[![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=71BFA7)](https://t.me/amok_catharsis) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=71BFA7)](https://www.linkedin.com/in/amokcatharis/)
-
 
 ### Visitors
 
