@@ -11,6 +11,11 @@ ___
 ### Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-9dcd77?style=for-the-badge&logo=telegram&logoColor=71BFA7)](https://t.me/amok_catharsis) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9dcd77?style=for-the-badge&logo=linkedin&logoColor=71BFA7)](https://www.linkedin.com/in/amokcatharis/)
+
+
+### Visitors
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Famokcatharsis&label=Visitors&countColor=%23263759)
 <!--
 **amokcatharsis/amokcatharsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
