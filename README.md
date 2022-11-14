@@ -15,7 +15,7 @@ ___
 
 ### Visitors
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Famokcatharsis&label=Visitors&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Famokcatharsis&label=Visitors&countColor=%23263759)
 <!--
 **amokcatharsis/amokcatharsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
