@@ -15,7 +15,10 @@ ___
 
 ___
 
-### Skills: Web Testing / Quality Assurance / Manual Testing / Software Testing / QA Automation / Python
+### Skills: Web Testing / Quality Assurance / Manual Testing / Software Testing / QA Automation
+___
+
+### Tools: Python / Git / TFS / Kibana / Postman / Jira / YouTrack / PostgreSQL / MySQL
 ___
 
 ### Visitors
