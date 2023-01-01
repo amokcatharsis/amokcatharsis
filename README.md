@@ -18,7 +18,7 @@ ___
 ### Skills: Web Testing / Quality Assurance / Manual Testing / Software Testing / QA Automation
 ___
 
-### Tools: Python / Git / TFS / Kibana / Postman / Jira / YouTrack / PostgreSQL / MySQL
+### Tools: ![Python](https://www.flaticon.com/ru/free-icon/python_5968350?related_id=5968350&origin=search) / Git / TFS / Kibana / Postman / Jira / YouTrack / PostgreSQL / MySQL
 ___
 
 ### Visitors
