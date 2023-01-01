@@ -15,6 +15,16 @@ ___
 
 ___
 
+### :man_technologist: About Me:
+
+I am a QA Engineer from Russia <img src="https://media.tenor.com/G2PESJkdpFAAAAAM/this-is-fine.gif" width="30">
+
+- :computer: More then 1.5 years of commercial experience
+- :man_student: Self-education and courses
+- :seedling: Exploring Python, Automation testing and Software development
+
+___
+
 ### :bulb: Skills: <em> Web Testing ● Quality Assurance ● Manual Testing ● Software Testing ● QA Automation </em>
 ___
 
@@ -40,17 +50,3 @@ ___
 ### :eyes: Visitors:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Famokcatharsis&label=Visitors&countColor=%23263759)
-<!--
-**amokcatharsis/amokcatharsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
