@@ -11,8 +11,8 @@ ___
   <a href="https://t.me/amok_catharsis">
     <img src="https://img.shields.io/badge/Telegram-informational?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
  </a>
-   <a href="https://www.codewars.com/users/amok_catharsis">
-    <img src="https://www.codewars.com/users/amok_catharsis/badges/micro" alt="Codewars"/>
+   <a href="https://www.codewars.com/users/amokcatharsis">
+    <img src="https://www.codewars.com/users/amokcatharsis/badges/micro" alt="Codewars"/>
  </a>
 </div>
 
