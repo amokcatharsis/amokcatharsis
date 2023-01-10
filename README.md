@@ -9,7 +9,10 @@ ___
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/amok_catharsis">
-    <img src="https://img.shields.io/badge/Telegram-informational?style=flat-square&logo=telegram&logoColor=white" alt="ProfileCard"/>
+    <img src="https://img.shields.io/badge/Telegram-informational?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+ </a>
+   <a href="https://www.codewars.com/users/amok_catharsis">
+    <img src="https://www.codewars.com/users/amok_catharsis/badges/small" alt="Codewars"/>
  </a>
 </div>
 
